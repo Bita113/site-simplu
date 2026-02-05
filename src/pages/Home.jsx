@@ -1,12 +1,12 @@
 import React from "react";
-import HeroSection from "@/components/landing/HeroSection";
-import CuCineLucrez from "@/components/landing/CuCineLucrez";
-import CeFacSection from "@/components/landing/CeFacSection";
-import ExempleSection from "@/components/landing/ExempleSection";
-import CumLucramSection from "@/components/landing/CumLucramSection";
-import PreturiSection from "@/components/landing/PreturiSection";
-import ContactSection from "@/components/landing/ContactSection";
-import FooterSection from "@/components/landing/FooterSection";
+import HeroSection from "@/components/landing/HeroSection.jsx";
+import CuCineLucrez from "@/components/landing/CuCineLucrez.jsx";
+import CeFacSection from "@/components/landing/CeFacSection.jsx";
+import ExempleSection from "@/components/landing/ExempleSection.jsx";
+import CumLucramSection from "@/components/landing/CumLucramSection.jsx";
+import PreturiSection from "@/components/landing/PreturiSection.jsx";
+import ContactSection from "@/components/landing/ContactSection.jsx";
+import FooterSection from "@/components/landing/FooterSection.jsx";
 
 export default function Home() {
   return (

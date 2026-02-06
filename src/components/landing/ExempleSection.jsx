@@ -27,6 +27,11 @@ const exemple = [
     link: "https://judicious-elegance-style-pro.base44.app",
     emoji: "💈",
   },
+  {
+    titlu: "Renovari si Constructii",
+    link: "https://renovri-premium-pro.base44.app",
+    emoji: "🏗️",
+  },
 ];
 
 export default function ExempleSection() {

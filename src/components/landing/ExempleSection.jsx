@@ -17,6 +17,16 @@ const exemple = [
     link: "https://moonveterinary.ro",
     emoji: "🏥",
   },
+  {
+    titlu: "Defrisari forestiere",
+    link: "https://eco-clean-land.base44.app",
+    emoji: "🌲",
+  },
+  {
+    titlu: "Barbershop",
+    link: "https://judicious-elegance-style-pro.base44.app",
+    emoji: "💈",
+  },
 ];
 
 export default function ExempleSection() {

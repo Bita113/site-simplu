@@ -38,7 +38,7 @@ export default function CeFacSection() {
         
         <div className="p-6 rounded-2xl bg-white border border-[#e8e4df]">
           <p className="text-base text-[#555] leading-relaxed">
-            Nu fac site-uri complicate. Fac pagini simple, ușor de folosit, care ajută firmele mici să fie mai vizibile.
+            Fac pagini simple, ușor de folosit, care ajută firmele mici să fie mai vizibile.
           </p>
         </div>
       </div>
